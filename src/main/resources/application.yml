@@ -1,0 +1,13 @@
+server:
+  port: 8989
+  context-path: /demo
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/test
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+mybatis:
+  mapper-locations: classpath:com/haku/dao/impl/*.xml
+  type-aliases-package: com.haku.entity

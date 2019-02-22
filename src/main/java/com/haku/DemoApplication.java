@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan("com.haku.dao")
 public class DemoApplication {
     //我在IDEA添加了注释哟
+
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }

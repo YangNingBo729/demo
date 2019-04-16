@@ -75,9 +75,5 @@
             </plugin>
         </plugins>
     </build>
-	<!-- add context to test first push -->
-	<!-- add context to test first pull -->
-	<!-- test -->
-	<!-- test -->
-	<!-- test -->
+
 </project>

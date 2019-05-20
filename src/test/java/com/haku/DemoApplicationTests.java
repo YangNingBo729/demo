@@ -23,9 +23,5 @@ public class DemoApplicationTests {
     }
 	// local dev add
 	// dev test
-<<<<<<< HEAD
-	// dev v
-=======
-	// github v
->>>>>>> 8811a57861a367625933de5dcbeb547fbdf0cc7c
+
 }

@@ -21,7 +21,6 @@ public class DemoApplicationTests {
         List<Person> person = personService.getPerson();
         System.out.println(person);
     }
-	// local dev add
-	// dev test
-	// from dev
+
 }
+

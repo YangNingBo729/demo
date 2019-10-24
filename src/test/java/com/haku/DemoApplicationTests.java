@@ -27,6 +27,7 @@ public class DemoApplicationTests {
         // now dev
 		String a = "a";
 		String b = "b";
+		system.out.println(b)
     }
 
 }

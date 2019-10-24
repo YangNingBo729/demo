@@ -25,9 +25,6 @@ public class DemoApplicationTests {
         // test n p
         // origin n p
         // now dev
-		String a = "a";
-		String b = "b";
-		system.out.println(b)
     }
 
 }

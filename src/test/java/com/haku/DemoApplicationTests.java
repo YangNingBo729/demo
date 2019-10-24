@@ -25,7 +25,7 @@ public class DemoApplicationTests {
         // test n p
         // origin n p
         // now dev
-		print(c)
+		print(cccc)
  }
 
 }

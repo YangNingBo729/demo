@@ -26,6 +26,7 @@ public class DemoApplicationTests {
         // origin n p
         // now dev
 		String b = "b"
+		print(b)
  }
 
 }

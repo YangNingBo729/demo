@@ -13,12 +13,4 @@ public class DemoApplication {
     }
 
 
-    // 1024commit first
-    // 1024commit second
-
-    // 1024 commit test 1
-    // 1024 commit test 2
-
-
-    // 0325 modify
 }
